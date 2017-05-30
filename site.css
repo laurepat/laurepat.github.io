@@ -1,5 +1,7 @@
 
-background-image: seamless-abstract-squares-1042.png
+body {
+background-image: "seamless-abstract-squares-1042.png"
+}
 
 h1 {
     color: black;

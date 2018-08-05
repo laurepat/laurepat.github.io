@@ -60,7 +60,7 @@ display: flex;
     padding: 0;
 }
 	
-.nav a{
+.nav li{
 	font-family: 'Open Sans', sans-serif;
 	text-decoration: none;
 	font-weight: bold;

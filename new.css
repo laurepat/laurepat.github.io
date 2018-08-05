@@ -46,6 +46,10 @@ display: flex;
 	 text-align: justify;
 	background-color: FFC857;
 }
+.nav {
+	background-color: FFC857;
+	overflow: hidden;
+}
 	
 .nav a{
 	font-family: 'Nunito', sans-serif;

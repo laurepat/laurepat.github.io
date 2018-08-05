@@ -11,4 +11,10 @@
 
 .body {
 font-family: Helvetica,serif;
+font-size: 16px;
+}
+
+#footer {
+font-family: Helvetica, serif;
+	font-size: 10px;
 }

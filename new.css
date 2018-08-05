@@ -2,10 +2,10 @@
 .header {
 	font-family: 'Kirang Haerang', cursive;
 	font-size: 56px;
+	font-color: FFC857;
 	justify-content: center;
 	color: 3943B7;
-	background-image: url("https://images.pexels.com/photos/255379/pexels-photo-255379.jpeg?auto=compress&cs=tinysrgb&h=350");
-	background-size: cover;
+	background-color: 177E89;
 }
 h2 { 
 	font-weight: bold;

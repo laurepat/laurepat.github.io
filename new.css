@@ -2,10 +2,10 @@
 .header {
 	font-family: 'Kirang Haerang', cursive;
 	font-size: 56px;
-	font-color: FFC857;
+	font-color: #177E89;
 	justify-content: center;
 	color: 3943B7;
-	background-color: #177E89;
+	background-color: #FFC857;
 }
 h2 { 
 	font-weight: bold;
@@ -34,12 +34,12 @@ font-family: 'Open Sans', sans-serif;
 .info {
 font-family: 'Open Sans Condensed', sans-serif;
 	margin: 2px;
-border: 5px solid #FFFFFF;
+border: 5px solid #FFC857;
 padding: 10px;
 display: flex;
 	flex-wrap: wrap;
 	 text-align: justify;
-	background-color: #FFFFFF;
+	background-color: FFC857;
 }
 
 .nav {

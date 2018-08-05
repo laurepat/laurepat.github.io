@@ -49,6 +49,7 @@ display: flex;
 .nav {
 	background-color: FFC857;
 	overflow: hidden;
+	 text-align: center;
 }
 	
 .nav a{

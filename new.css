@@ -54,9 +54,10 @@ display: flex;
 	background-color: FFC857;
 }
 .nav {
-	background-color: FFC857;
-	overflow: hidden;
-	 text-align: center;
+	list-style-type: none;
+    text-align: center;
+    margin: 0;
+    padding: 0;
 }
 	
 .nav a{
@@ -65,8 +66,8 @@ display: flex;
 	font-weight: bold;
 	font-size: 18px;
 	font-color: #177E89;
-	float: left;
-	padding: 14px;
-	margin: 14px;
+	 display: inline-block;
+    font-size: 20px;
+    padding: 20px;
 	
 }

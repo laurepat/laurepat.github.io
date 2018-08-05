@@ -32,4 +32,5 @@ border: 5px solid #FFF;
 padding: 10px;
 display: flex;
 	flex-wrap: wrap;
+	justify-content: center;
 }

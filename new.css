@@ -24,7 +24,9 @@ a {
 .about{
 	'Open Sans Condensed', sans-serif;
 font-size: 16px;
+	float: right;
 }
+
 .images{
 float: left
 padding:16px;

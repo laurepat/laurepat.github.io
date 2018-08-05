@@ -11,12 +11,13 @@ h2 {
 	font-family: 'Nunito', sans-serif;
 	font-weight: bold;
 	font-size: 32px;
-	font-color: 177E89;
+	font-color: #177E89;
 }
 
 a { 
 	text-decoration: none;
-	font-weight: bold;
+	font-weight: bold
+	font-color: #177E89;	
 }
 
 .images{
@@ -36,7 +37,7 @@ font-family: 'Open Sans', sans-serif;
 .info {
 font-family: 'Open Sans Condensed', sans-serif;
 	margin: 2px;
-border: 5px solid #FFC857;
+border: 20px solid #DB3A34;
 padding: 10px;
 display: flex;
 	flex-wrap: wrap;

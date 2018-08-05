@@ -1,6 +1,6 @@
 
 .header {
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-size: 56px;
 	font-color: #177E89;
 	text-align: center;
@@ -8,7 +8,7 @@
 	background-color: FFC857;
 }
 h2 { 
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 	font-weight: bold;
 	font-size: 32px;
 	font-color: 177E89;
@@ -19,14 +19,16 @@ a {
 	font-weight: bold;
 	font-size: 18px;
 	font-color: #177E89;
-	font-family: 'Nunito', sans-serif;
+	font-family: 'Open Sans', sans-serif;
 }
 .about{
-	font-family: 'Open Sans', sans-serif;
+	'Open Sans Condensed', sans-serif;
 font-size: 16px;
 }
 .images{
 float: left
+padding:16px;
+	margin:16px;
 }
 
 .body {

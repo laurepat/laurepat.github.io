@@ -51,7 +51,6 @@ padding: 10px;
 display: flex;
 	flex-wrap: wrap;
 	 text-align: justify;
-	background-color: FFC857;
 }
 .nav {
 	list-style-type: none;

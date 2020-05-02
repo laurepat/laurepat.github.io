@@ -1,16 +1,14 @@
 
-.header {
+h1 {
 	font-family: 'Roboto Condensed', sans-serif;
 	font-size: 48px;
-	font-color: #177E89;
-	text-align: center;
-	color: 3943B7;
-	background-color: FFC857;
+	font-color: #D5A400;
+	
 }
 h2 { 
 	font-family: 'Roboto Condensed', sans-serif;
-	font-size: 32px;
-	font-color: #177E89;
+	font-size: 36px;
+	font-color: #2A201C;
 }
 
 a { 
@@ -18,7 +16,7 @@ a {
 	text-decoration: none;
 	font-weight: bold;
 	font-size: 18px;
-	font-color: #177E89;
+	font-color: #163B6D;
 }
 .about{
 	font-family: 'Roboto Condensed', sans-serif;
